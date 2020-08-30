@@ -1,0 +1,6 @@
+D:\С(sharp)(code)\Tic-tac-toe(console)\Tic-tac-toe(console)\bin\Debug\Tic-tac-toe(console).exe.config
+D:\С(sharp)(code)\Tic-tac-toe(console)\Tic-tac-toe(console)\bin\Debug\Tic-tac-toe(console).exe
+D:\С(sharp)(code)\Tic-tac-toe(console)\Tic-tac-toe(console)\bin\Debug\Tic-tac-toe(console).pdb
+D:\С(sharp)(code)\Tic-tac-toe(console)\Tic-tac-toe(console)\obj\Debug\Tic-tac-toe(console).csproj.CoreCompileInputs.cache
+D:\С(sharp)(code)\Tic-tac-toe(console)\Tic-tac-toe(console)\obj\Debug\Tic-tac-toe(console).exe
+D:\С(sharp)(code)\Tic-tac-toe(console)\Tic-tac-toe(console)\obj\Debug\Tic-tac-toe(console).pdb
